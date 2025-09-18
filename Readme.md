@@ -11,6 +11,8 @@ A realtime chat application where users can join rooms and chat together. Built 
 - 🎨 Clean and responsive UI (HTML, CSS, Font Awesome)
 
 ## Screenshots
+
+
 **Join Page**
 Users enter a username and choose a room:
 ```
