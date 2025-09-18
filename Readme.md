@@ -2,6 +2,7 @@
 
 A realtime chat application where users can join rooms and chat together. Built with **Node.js**, **Express**, and **Socket.io**, styled with **vanilla CSS** and **Font Awesome**.
 
+---
 ## Features
 - 🔑 Join chatrooms with a username
 - 💬 Realtime messaging across rooms
@@ -9,27 +10,27 @@ A realtime chat application where users can join rooms and chat together. Built 
 - 📋 Sidebar with active users & room name
 - ⏱️ Timestamps for each message
 - 🎨 Clean and responsive UI (HTML, CSS, Font Awesome)
-
+---
 ## Screenshots
 
 
 **Join Page**
 Users enter a username and choose a room:
-```
-[ index.html ]
-```
+
+![Home](assets/1.png)
 
 **Chat Page**
 Realtime chat in the chosen room:
-```
-[ chat.html ]
-```
+
+![Chat](assets/2.png)
+
+---
 
 ## Tech Stack
 - **Backend:** Node.js, Express, Socket.io
 - **Frontend:** HTML5, CSS3, Font Awesome
 - **Utilities:** Moment.js for timestamps
-
+---
 ## Project Structure
 ```
 campfire/
@@ -47,7 +48,7 @@ campfire/
 ├── package.json            # Dependencies & scripts
 └── .gitignore              # node_modules/
 ```
-
+---
 ## Installation
 1. Clone the repo:
    ```bash
@@ -70,7 +71,7 @@ campfire/
    ```
    http://localhost:3000
    ```
-
+---
 ## Usage
 1. Open the app and enter a **username**.
 2. Select a **chatroom** from the dropdown.
